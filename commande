@@ -1,0 +1,1 @@
+echo "`date +%Y-%m-%d_%Hh%Mm%Ss` : Docker-ce installation START" >> install_docker.log
